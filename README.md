@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Trackvel, a tracker app for schools
+- 🔭 I’m currently working on VenSay, a Vue.js based web application.
 - 🌱 I’m currently learning Android development
 - 👯 I’m looking to collaborate on App development
 - 📫 How to reach me: Instagram @vens8
