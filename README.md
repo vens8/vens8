@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on VenSay, a Vue.js based web application.
+- 🔭 I’m currently working on [bOSS](https://github.com/vens8/bOSS), a bug bounty website for open-source projects.
 - 👯 I’m looking to collaborate on App development
 - 📫 How to reach me: Instagram @vens8
 - ⚡ Fun fact: [This](https://www.youtube.com/Vens8) is where I post my music covers and other random stuff!
