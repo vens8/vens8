@@ -1,8 +1,22 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on [bOSS](https://github.com/vens8/bOSS), a bug bounty website for open-source projects.
-- 👯 I’m looking to collaborate on App development
-- 📫 How to reach me: Instagram @vens8
+- 👯 I’m looking to collaborate on Web development
+- 📫 How to reach me: 
+<p align="left">
+<a href="https://twitter.com/vens_8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vens_8" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vens8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vens8" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/vens8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="vens8" height="30" width="40" /></a>
+<a href="https://fb.com/rahul.maddula.8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rahul.maddula.8" height="30" width="40" /></a>
+<a href="https://instagram.com/vens8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vens8" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/vens8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vens8" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/vens8" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vens8" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/vens8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vens8" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/vens8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="vens8" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/vens8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vens8" height="30" width="40" /></a>
+<a href="https://www.topcoder.com/members/vens8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="vens8" height="30" width="40" /></a>
+</p>
+
 - ⚡ Fun fact: [This](https://www.youtube.com/Vens8) is where I post my music covers and other random stuff!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vens8&label=Profile%20views&color=0e75b6&style=flat" alt="vens8" /> </p>
