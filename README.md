@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [bOSS](https://github.com/vens8/bOSS), a bug bounty website for open-source projects.
+- 🔭 I’m currently working on [Markie](https://github.com/MarkieLab/), a useful VS Code extension for all developers!
 - 👯 I’m looking to collaborate on Web development
 - 📫 How to reach me (and other links): 
 <p align="left">
