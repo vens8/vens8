@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [Markie](https://github.com/MarkieLab/), a useful VS Code extension for all developers!
-- 👯 I’m looking to collaborate on WebDev, DevOps, AppDev, and willing to explore new things :)
+- 🔭 I’m currently working on [Biiite]([https://github.com/MarkieLab/](http://biiite.com/), a food ordering application for colleges and workspaces!
+- 👯 I’m looking to collaborate on Android Development, Mobile Development, DevOps, and willing to explore new things :)
 - 📫 How to reach me (and other links): 
 <p align="left">
 <a href="https://instagram.com/vens8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vens8" height="30" width="40" /></a>
