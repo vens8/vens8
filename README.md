@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [Biiite]([url](http://biiite.com/)), a food ordering application for colleges and workspaces!
+- 🔭 I’m currently working on [Biiite](http://biiite.com/), a food ordering application for colleges and workspaces!
 - 👯 I’m looking to collaborate on Android Development, Mobile Development, DevOps, and willing to explore new things :)
 - 📫 How to reach me (and other links): 
 <p align="left">
