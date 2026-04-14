@@ -44,9 +44,5 @@
 <details>    -->
  <summary><b>🏆 Github Achievements</b></summary>
 <p align="center"> <a href="https://github.com/vens8"><img src="https://github-profile-trophy.vercel.app/?username=vens8&margin-w=5&theme=radical" alt="vens8" /></a> </p>
-
- <summary><b>💰 You can help me by donating</b></summary>
- 
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/vens8) 
   
 <br>
